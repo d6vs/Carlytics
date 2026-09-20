@@ -79,7 +79,6 @@ run.bat
 #### **macOS / Linux**
 ```bash
 cd server
-chmod +x run.sh
 ./run.sh
 ```
 
