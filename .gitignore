@@ -1,0 +1,39 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# Node modules & Next.js build outputs
+node_modules/
+.next/
+out/
+build/
+dist/
+
+# Python virtual environments & bytecode
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+env/
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files & logs
+*.log
+scratch/
+tmp/
+
+# Large trained model artifacts
+*.pkl
+*.bin
+mlartifacts/
+mlflow.db
+*.mp4

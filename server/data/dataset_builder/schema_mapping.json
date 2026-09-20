@@ -1,0 +1,94 @@
+{
+    "car_name": [
+        "car_name",
+        "full_name",
+        "vehicle_name",
+        "vehicle",
+        "car",
+        "name"
+    ],
+
+    "registration_year": [
+        "registration_year",
+        "registered_year",
+        "year",
+        "registration"
+    ],
+
+    "insurance_validity": [
+        "insurance_validity",
+        "insurance",
+        "insurance_status"
+    ],
+
+    "fuel_type": [
+        "fuel_type",
+        "fuel",
+        "fueltype"
+    ],
+
+    "seats": [
+        "seats",
+        "seat"
+    ],
+
+    "kms_driven": [
+        "kms_driven",
+        "kilometers_driven",
+        "km_driven",
+        "kms",
+        "odometer"
+    ],
+
+    "ownsership": [
+        "ownership",
+        "ownsership",
+        "owner",
+        "owner_type"
+    ],
+
+    "transmission": [
+        "transmission",
+        "transmission_type",
+        "gearbox"
+    ],
+
+    "manufacturing_year": [
+        "manufacturing_year",
+        "manufacture_year",
+        "mfg_year"
+    ],
+
+    "mileage(kmpl)": [
+        "mileage(kmpl)",
+        "mileage",
+        "kmpl"
+    ],
+
+    "engine(cc)": [
+        "engine(cc)",
+        "engine_capacity",
+        "engine",
+        "engine_cc"
+    ],
+
+    "max_power(bhp)": [
+        "max_power(bhp)",
+        "max_power",
+        "power",
+        "bhp"
+    ],
+
+    "torque(Nm)": [
+        "torque(Nm)",
+        "torque",
+        "nm"
+    ],
+
+    "price(in lakhs)": [
+        "price(in lakhs)",
+        "price",
+        "resale_price",
+        "selling_price"
+    ]
+}
